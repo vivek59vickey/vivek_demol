@@ -1,2 +1,3 @@
 # vivek_demol
-this si my first reposetory
+this is my first reposetory
+this si K R VIVEK
